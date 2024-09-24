@@ -1,0 +1,38 @@
+<gameEvents>
+    <event>
+        <time>20</time>
+        <level>INFO</level>
+        <message>Game started.</message>
+        <react>21</react>
+    </event>
+    <event>
+        <time>40</time>
+        <level>INFO</level>
+        <message>Player has spawned.</message>
+        <react>42</react>
+    </event>
+    <event>
+        <time>60</time>
+        <level>WARNING</level>
+        <message>Player encountered a minor enemy.</message>
+        <react>61</react>
+    </event>
+    <event>
+        <time>65</time>
+        <level>INFO</level>
+        <message>Player collected a power-up.</message>
+        <react>66</react>
+    </event>
+    <event>
+        <time>80</time>
+        <level>ERROR</level>
+        <message>Player has taken fatal damage!</message>
+        <react>81</react>
+    </event>
+    <event>
+        <time>90</time>
+        <level>INFO</level>
+        <message>Game over. Restarting...</message>
+        <react>91</react>
+    </event>
+</gameEvents>
