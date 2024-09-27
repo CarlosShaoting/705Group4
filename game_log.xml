@@ -3,13 +3,13 @@
         <time>20</time>
         <level>INFO</level>
         <message>Game started.</message>
-        <react>21</react>
+        <react>20.2</react>
     </event>
     <event>
         <time>40</time>
         <level>INFO</level>
         <message>Player has spawned.</message>
-        <react>42</react>
+        <react>40.3</react>
     </event>
     <event>
         <time>60</time>
@@ -27,12 +27,12 @@
         <time>80</time>
         <level>ERROR</level>
         <message>Player has taken fatal damage!</message>
-        <react>81</react>
+        <react>80.9</react>
     </event>
     <event>
         <time>90</time>
         <level>INFO</level>
         <message>Game over. Restarting...</message>
-        <react>91</react>
+        <react>92</react>
     </event>
 </gameEvents>
