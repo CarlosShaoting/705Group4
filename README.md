@@ -23,11 +23,12 @@ Below is the list of software you have to download.
 
 ## Experiment Tasks
 
-Participants will be asked to drive in the VR simulator, and we will generate some random events and obstacles.
+Participants will be asked to drive in the VR simulator, and we will generate some random events and obstacles.  
 
 ## Data We Collect
 
-We will collect participants' pupil size through the Vive VR headset, and the heart rate through the Polar OH1 worn on their arm.
+We will collect participants' pupil size through the Vive VR headset and their heart rate through the Polar OH1 worn on their arm.   
+At the start of the game (when the Start button is clicked), use the Polar Flow app to start recording the heart rate.
 
 ## Script
 
