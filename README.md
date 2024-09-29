@@ -26,6 +26,7 @@ Below is the list of software you have to download.
 4. Polar Flow/Polar Beat
 5. Python environment
 
+![preparation](./equ.jpg)
 ## Experiment Tasks
 
 Participants will be asked to drive in the VR simulator, and we will generate some random events and obstacles.  
