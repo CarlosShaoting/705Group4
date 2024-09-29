@@ -1,4 +1,4 @@
-{"time":0.0,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
+[{"time":0.0,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
 {"time":0.019999999552965165,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
 {"time":0.03999999910593033,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
 {"time":0.05999999865889549,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
@@ -2241,4 +2241,4 @@
 {"time":44.79999923706055,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
 {"time":44.81999969482422,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
 {"time":44.84000015258789,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
-{"time":44.86000061035156,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0},
+{"time":44.86000061035156,"AcceleratorPercentage":0.0,"BrakePercentage":0.0,"SteerPercentage":0.0}]
